@@ -115,7 +115,7 @@ Bang events will save the model after call, where the non bang event will just u
 
 == Extras
 
-* When transitioning states, the previous state from which you have transitioned to can be accessed via `_previous_state`. See tests for more information.
+* When transitioning states, the previous state from which you have transitioned can be accessed via `_previous_state`. See tests for more information.
 
 == Note on Patches/Pull Requests
  
